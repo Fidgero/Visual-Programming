@@ -1,0 +1,9 @@
+Hello this is final project from Matvei Korshunov and Oleg Harlamov.
+This project is a easy clicker with progression. In this project you need click on a button, when you did it at your inventority will add a wish.
+You can sell it and buy something in the shop. For us was interesting to maid somthing like a game.
+In this game we hame 4 tier of fishing rod. Each rod has own chances for fish and begining with mk2 has a special ability.
+mk0 rod you start with.
+mk1 have better chances.
+mk2 have better chances then mk 1 and have ability to double your reward.
+mk3 have all features mk2 rised chaced and new ability. Ability is every 4 action it will give 1 additional fish.
+And of course all buffs is additive. That mean if you have fishing rod mk3 you have all buffs other rods.
